@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Asymtote: My first blog"
 date: 2020-03-22
 ---
